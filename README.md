@@ -1,2 +1,2 @@
 # Python Animation Graph Project
-This project 
+This project is a 
