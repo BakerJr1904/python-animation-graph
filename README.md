@@ -1,1 +1,2 @@
-# python-animation-graph
+# Python Animation Graph Project
+This project 
