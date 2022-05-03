@@ -11,7 +11,6 @@ random numbers into the CSV file. You need this file running first. Both sensors
 
 Then start the main.py file it will read the CSV file, and plot a chart for each sensor until you stop the programs. When you restart the program files the CSV file gets rewritten, so it always starts at 1000 for both sensors.
 <br/><br/><br/>
-
 This is a screen recording of what this project does:
 
 https://user-images.githubusercontent.com/65743503/157137866-78d98db5-0ee2-481d-a679-f67162cd4e35.mov
