@@ -1,6 +1,7 @@
 # Python Animation Graph Project
 
 This project is a two file project, and both files need to be running.<br/>
+
 ### data_gen.py
 First you need to start the data_gen.py file. This file will create a CSV file if one doesn't exist, and start entering
 random numbers into the CSV file. You need this file running first. Both sensors start at 1000.<br/>
