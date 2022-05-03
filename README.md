@@ -8,6 +8,7 @@ First you need to start the data_gen.py file. This file will create a CSV file i
 random numbers into the CSV file. You need this file running first. Both sensors start at 1000.<br/>
 
 ### main.py
+
 Then start the main.py file it will read the CSV file, and plot a chart for each sensor until you stop the programs. When you restart the program files the CSV file gets rewritten, so it always starts at 1000 for both sensors.
 <br/><br/><br/>
 This is a screen recording of what this project does:
